@@ -1,4 +1,4 @@
-<img src="./quill_tp.svg" height="200px" align="right">
+<img src="./quill_tp.svg" width="200px" align="right">
 
 ### The Quill Project
 The Quill programming language is a high-level, statically typed, garbage collected and compiled programming language. Quill promises simplicity and elegance, but not at the cost of program execution speed.
